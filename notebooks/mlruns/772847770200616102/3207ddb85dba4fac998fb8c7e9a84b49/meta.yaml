@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/772847770200616102/3207ddb85dba4fac998fb8c7e9a84b49/artifacts
+end_time: 1714859599317
+entry_point_name: ''
+experiment_id: '772847770200616102'
+lifecycle_stage: active
+run_id: 3207ddb85dba4fac998fb8c7e9a84b49
+run_name: 1layers-100units
+run_uuid: 3207ddb85dba4fac998fb8c7e9a84b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714859594485
+status: 4
+tags: []
+user_id: ahmed
