@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/772847770200616102
-creation_time: 1714858223230
-experiment_id: '772847770200616102'
-last_update_time: 1714858223230
-lifecycle_stage: active
-name: Seq2seq-LSTM
